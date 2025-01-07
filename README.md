@@ -55,7 +55,7 @@ This is a **simple calculator application** developed in Python with a graphical
 2. **Percentage**:
    - Input `50`, click `%`, input `200` , and press `=` to calculate `50% of 200`.
 3. **Power and Root**:
-   - Input `2`, click `x²`, input `3`, and press `=` to calculate `2³`.
+   - Input `2`, click `xⁿ`, input `3`, and press `=` to calculate `2³`.
    - Input `16`, click `√` and press `=` to calculate the square root of `16`.
 
 ---
